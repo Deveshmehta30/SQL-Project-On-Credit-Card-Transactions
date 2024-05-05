@@ -26,6 +26,4 @@ During weekends which city has highest total spend to total no of transcations r
 
 City which took least number of days to reach its 500th transaction after the first transaction in that city
 
-City which took least number of days to reach its 500th transaction after the first transaction in that city
-
 Database used: Microsoft SQL server Database Management System
